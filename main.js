@@ -5,5 +5,6 @@ var i
 for (i=0; i<numbers.length;i++){
     if(numbers[i]>50){
         console.log(numbers[i])
+        alert (numbers[i])
     }
 }
